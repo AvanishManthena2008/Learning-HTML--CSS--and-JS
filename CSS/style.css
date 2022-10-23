@@ -1,0 +1,156 @@
+.container1 {
+  width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.25;
+  margin-bottom: 15px;
+}
+
+#main-h1 {
+  font-size: 35px;
+  text-transform: uppercase;
+  background: #f7f7f7;
+}
+
+.navlink,
+nav {
+  background-color: #f7f7f7;
+}
+#toppage {
+  background-color: #f7f7f7 !important;
+  border-top: 10px solid #27b6cc;
+  padding: 15px 15px;
+}
+
+#basic-lang-of-web {
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #096b7a;
+  padding-top: 20px;
+}
+
+#pfp {
+  padding: 10px;
+}
+
+#what-is-html,
+#why-should-you {
+  font-size: 20px;
+}
+
+#why-should-you {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+#what-is-html,
+#why-should-you,
+#main-header,
+#related-posts {
+  color: #27b6cc;
+}
+
+#related-posts {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.relatedposts {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-bottom: 15px;
+}
+
+aside {
+  background: #f7f7f7;
+  border-top: 5px solid #27b6cc;
+  border-bottom: 5px solid #27b6cc;
+  padding: 25px 0;
+  width: 750px;
+}
+
+li {
+  margin: 15px;
+  margin-left: 15px;
+}
+
+li:last-child {
+  margin-bottom: 5;
+}
+
+/* styling links */
+a:link {
+  color: #27b6cc;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #096b7a;
+  text-decoration: underline;
+}
+
+a:active {
+  font-weight: 600;
+}
+/*END stlying links */
+
+body ::selection {
+  background: #27b6cc;
+}
+
+ul,
+ol {
+  margin-left: 30px;
+}
+
+#copyright {
+  margin-top: 15px;
+}
+
+.image1 {
+  height: auto;
+  width: 100%;
+}
+
+#pfp {
+}
+
+.image1 {
+  margin-bottom: 30px;
+}
